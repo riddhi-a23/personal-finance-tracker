@@ -34,4 +34,4 @@ A sleek, responsive web application designed to help users track their daily exp
 2. Open `index.html` in any modern web browser.
 
 ---
-Built with ❤️ by [riddhi-a23](https://github.com/riddhi-a23)
+Built with ❤️ by [Riddhi](https://github.com/riddhi-a23)
